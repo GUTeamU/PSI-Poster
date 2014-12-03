@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.9.11)  3 DEC 2014 14:04
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2014.9.11)  3 DEC 2014 15:09
 entering extended mode
  %&-line parsing enabled.
 **example.tex
@@ -991,34 +991,61 @@ LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <17.86> not available
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <12.50194> not available
 (Font)              size <12> substituted on input line 82.
 
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 254.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 267.
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2007/01/14 v1.3 Font defs for Latin Modern
 )
-LaTeX Font Info:    Calculating math sizes for size <37.03> on input line 254.
+LaTeX Font Info:    Calculating math sizes for size <37.03> on input line 267.
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <37.03> not available
-(Font)              size <24.88> substituted on input line 254.
+(Font)              size <24.88> substituted on input line 267.
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <25.92088> not available
-(Font)              size <24.88> substituted on input line 254.
+(Font)              size <24.88> substituted on input line 267.
 
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <18.515> not available
-(Font)              size <17.28> substituted on input line 254.
+(Font)              size <17.28> substituted on input line 267.
 
-<storage.jpeg, id=11, 259.97125pt x 194.7275pt>
-File: storage.jpeg Graphic file (type jpg)
- <use storage.jpeg>
-LaTeX Font Info:    Try loading font information for TS1+lmss on input line 254
+<leak.jpg, id=11, 852.18375pt x 568.1225pt>
+File: leak.jpg Graphic file (type jpg)
+ <use leak.jpg>
+LaTeX Font Info:    Try loading font information for TS1+lmss on input line 267
 .
 
 (/usr/share/texmf/tex/latex/lm/ts1lmss.fd
 File: ts1lmss.fd 2007/01/14 v1.3 Font defs for Latin Modern
-) (./example.bbl)
-Overfull \hbox (4.99402pt too wide) detected at line 254
+)
+<storage.jpeg, id=15, 259.97125pt x 194.7275pt>
+File: storage.jpeg Graphic file (type jpg)
+ <use storage.jpeg>
+<Maninthemiddle.png, id=17, 655.44875pt x 280.04625pt>
+File: Maninthemiddle.png Graphic file (type png)
+
+<use Maninthemiddle.png> (./example.bbl
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 6.
+
+(/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2007/01/14 v1.3 Font defs for Latin Modern
+)
+LaTeX Font Info:    Calculating math sizes for size <30.85> on input line 6.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <30.85> not available
+(Font)              size <24.88> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <21.59491> not available
+(Font)              size <20.74> substituted on input line 6.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <15.425> not available
+(Font)              size <14.4> substituted on input line 6.
+
+)
+Overfull \hbox (4.99402pt too wide) detected at line 267
 [][][] [][][][][][][][][] [][][][][][][][][] [][][][][][][][][] [][][][][][][][
 ][] [][][][][][][][][] [][][][][][][] 
  []
@@ -1039,29 +1066,29 @@ Overfull \hbox (88.20334pt too wide) has occurred while \output is active
 
 [2{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- <./storage.jpeg>]
-(./example.aux)
+ <./leak.jpg> <./storage.jpeg> <./Maninthemiddle.png>] (./example.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 12.15pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 12058 strings out of 256216
- 214202 string characters out of 1917072
- 366796 words of memory out of 1500000
- 14923 multiletter control sequences out of 10000+200000
- 69791 words of font info for 65 fonts, out of 1200000 for 2000
+ 12145 strings out of 256216
+ 215670 string characters out of 1917072
+ 378135 words of memory out of 1500000
+ 15000 multiletter control sequences out of 10000+200000
+ 82774 words of font info for 83 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
  43i,16n,66p,363b,1512s stack positions out of 5000i,500n,6000p,200000b,15000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-ts1.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/shar
 e/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm
 /lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmss17.pfb></usr/share/texm
-f/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on example.pdf (1 page, 132505 bytes).
+f/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lm
+tt12.pfb>
+Output written on example.pdf (1 page, 280973 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 131072)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 62 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 131072)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

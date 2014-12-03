@@ -1,5 +1,15 @@
 \begin{thebibliography}{1}
 
+\bibitem{iCloud}
+{iCloud Backup Without Consent}.
+\newblock
+  \url{https://www.schneier.com/blog/archives/2014/10/apple_copies_yo.html}.
+
+\bibitem{onwubiko}
+Cyril Onwubiko.
+\newblock Security issues to cloud computing.
+\newblock In {\em Cloud Computing}, pages 271--288. Springer, 2010.
+
 \bibitem{good}
 Wenjin Hu, Tao Yang, and Jeanna~N Matthews.
 \newblock The good, the bad and the ugly of consumer cloud storage.
